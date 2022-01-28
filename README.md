@@ -7,7 +7,7 @@ This script automates house buying in FF14. Includes random timing for peace of 
 3. Open Command Prompt as administrator
 4. Install required packages
     - pip install pyautogui
-    - pip install opencv-python-headless<4.3
+    - pip install "opencv-python-headless<4.3"
 5. Replace yes_button.png in images/ folder with your own screenshot
 6. Open config.ini in a text editor and set ConfirmButton = whatever your 'Confirm' keybind is set to in-game. NUM0 by default.
 
