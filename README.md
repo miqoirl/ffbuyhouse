@@ -9,7 +9,7 @@ This script automates house buying in FF14. Includes random timing for peace of 
     - pip install pyautogui
     - pip install Pillow
     - pip install "opencv-python-headless<4.3"
-5. Replace yes_button.png in images/ folder with your own screenshot
+5. Replace yes_button.png in images/ folder with your own screenshot of your yes button in-game.
 6. Open config.ini in a text editor and set ConfirmButton = whatever your 'Confirm' keybind is set to in-game. NUM0 by default.
 
 ### Usage
